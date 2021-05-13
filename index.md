@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to Karma Coin
 
-You can use the [editor on GitHub](https://github.com/R3DV2/FantomKarma/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Karma Coin is one of if not the first tokens on the FTM blockchain to share the wealth with charity. Come and support us all. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Pre sale is live now
 
-### Markdown
+https://docs.google.com/forms/d/1zRTF3Ok3rxFRo7dEDQzcEjd3eGigCFenYgGqgByQtn4/edit
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Tokenomics
 ```markdown
-Syntax highlighted code block
+Karma will have a max supply of 1 Trillion (1,000,000,000,000). 
+30% will go to pre-salers (300,000,000,000)
+30% for initial liquidity
+10% will be used for air drops.
+5% will go to the charity wallet to be locked
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+The remaining 25% will be burned every 500 holders to reward early holders.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Roadmap
+```markdown
+### May 2021
+Pre sale
+Contract verification and audit
+Marketing 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/R3DV2/FantomKarma/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### April 2021
+First charity donation
+Coingecko/coinmarketcap listings
+TBA
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###TBA
+```

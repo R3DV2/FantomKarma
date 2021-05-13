@@ -4,7 +4,7 @@ Karma Coin is one of if not the first tokens on the FTM blockchain to share the 
 
 ### Pre sale is live now
 
-https://docs.google.com/forms/d/1zRTF3Ok3rxFRo7dEDQzcEjd3eGigCFenYgGqgByQtn4
+https://forms.gle/R87vaCNQrcMGGbig7
 
 Tokenomics
 ```markdown

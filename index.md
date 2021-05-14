@@ -1,6 +1,6 @@
 ## Welcome to Karma Coin
 
-Karma Coin is one of if not the first tokens on the FTM blockchain to share the wealth with charity. Come and support us all. 
+Karma Coin is a community charity/nft/gambling/meme coin designed to give everyone involved good karma. Come support the fun and be a part of something great.
 
 ### Pre sale is live now
 
@@ -8,19 +8,18 @@ https://forms.gle/R87vaCNQrcMGGbig7
 
 Tokenomics
 ```markdown
-Karma will have a max supply of 1 Trillion (1,000,000,000,000). 
-30% will go to pre-salers (300,000,000,000)
-30% for initial liquidity
-10% will be used for air drops.
-5% will go to the charity wallet to be locked
+Karma will have a max supply of 1 quadrillion (1,000,000,000,000,000). 
+It will be distributed in a fair stealth launch
 
-The remaining 25% will be burned every 500 holders to reward early holders.
+50% has been burned.
+Max tx to prevent whales, 3% liquidity, 6% auto reflect.
+Lets get good karma in space.
 ```
 
 ### Roadmap
 ```markdown
 ### May 2021
-Pre sale
+Stealth launch
 Contract verification and audit
 Marketing 
 

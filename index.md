@@ -2,10 +2,6 @@
 
 Karma Coin is a community charity/nft/gambling/meme coin designed to give everyone involved good karma. Come support the fun and be a part of something great.
 
-### Pre sale is live now
-
-https://forms.gle/R87vaCNQrcMGGbig7
-
 Tokenomics
 ```markdown
 Karma will have a max supply of 1 quadrillion (1,000,000,000,000,000). 
